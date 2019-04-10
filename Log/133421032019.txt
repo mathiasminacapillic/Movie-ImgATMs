@@ -1,0 +1,38 @@
+Deleting from ms-atm01
+Imagen no existe en el directorio. 
+Deleting from ms-atm02
+Imagen no existe en el directorio. 
+Deleting from ms-atm03
+Imagen no existe en el directorio. 
+Deleting from ms-atm04
+Imagen no existe en el directorio. 
+Deleting from ms-atm05
+Imagen no existe en el directorio. 
+Deleting from ms-atm06
+Imagen no existe en el directorio. 
+Deleting from ms-atm07
+Imagen no existe en el directorio. 
+Deleting from ms-atm08
+Imagen no existe en el directorio. 
+Deleting from ms-atm09
+Imagen no existe en el directorio. 
+Deleting from ps-atm01
+Imagen no existe en el directorio. 
+Deleting from ps-atm02
+Imagen no existe en el directorio. 
+Deleting from ps-atm03
+El archivo se ha movido correctamente. 
+Deleting from ps-atm04
+Imagen no existe en el directorio. 
+Deleting from pc-atm01
+Imagen no existe en el directorio. 
+Deleting from pc-atm02
+Imagen no existe en el directorio. 
+Deleting from pc-atm03
+Imagen no existe en el directorio. 
+Deleting from nc-atm01
+Imagen no existe en el directorio. 
+Deleting from nc-atm02
+Error al mover. Verifique permisos de la carpeta destino. 
+Deleting from nc-atm03
+Imagen no existe en el directorio. 

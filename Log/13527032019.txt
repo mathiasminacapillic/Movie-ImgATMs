@@ -1,0 +1,38 @@
+Copying to ms-atm01
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ms-atm02
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ms-atm03
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ms-atm04
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ms-atm05
+Archivo copiado correctamente. 
+Copying to ms-atm06
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ms-atm07
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ms-atm08
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ms-atm09
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ps-atm01
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ps-atm02
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ps-atm03
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to ps-atm04
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to pc-atm01
+Archivo copiado correctamente. 
+Copying to pc-atm02
+Archivo copiado correctamente. 
+Copying to pc-atm03
+Archivo copiado correctamente. 
+Copying to nc-atm01
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to nc-atm02
+El archivo ya existe en el destino. No se ha realizado copia. 
+Copying to nc-atm03
+El archivo ya existe en el destino. No se ha realizado copia. 
